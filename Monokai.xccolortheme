@@ -70,7 +70,7 @@
 	<key>Fonts</key>
 	<dict>
 		<key>xcode.syntax.plain</key>
-		<string>Monaco - 18.0</string>
+		<string>Monaco - 14.0</string>
 	</dict>
 </dict>
 </plist>
